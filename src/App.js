@@ -1,24 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import prinmia from './image/prinmia2.jpeg';
+import signature from './image/signature.png'
+import brand from './image/brand.PNG'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App flex-row">	  	
+		  <section className="image">
+			 <img src={prinmia} alt='background' />
+			</section>	
+			<section className="content">
+			  <header className="flex-row header">
+					<img src={brand} alt="signature" className="brand" />
+					<img src={signature} alt="signature" className="signature" />
+				</header>
+				<div className="flex-col-centered body">
+					<p id='first' className="josefina">THIS WEBSITE IS UNDER CONSTRUCTION</p>
+					<p id='second' className='robo-mono'>Coming Soon.</p>
+				</div>
+			</section>
     </div>
   );
 }
