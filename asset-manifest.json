@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fashion/static/css/main.8fa35a3f.chunk.css",
+    "main.css": "/fashion/static/css/main.e76f420a.chunk.css",
     "main.js": "/fashion/static/js/main.12680ffd.chunk.js",
     "main.js.map": "/fashion/static/js/main.12680ffd.chunk.js.map",
     "runtime-main.js": "/fashion/static/js/runtime-main.97901acc.js",
@@ -8,16 +8,16 @@
     "static/js/2.ba1eafc2.chunk.js": "/fashion/static/js/2.ba1eafc2.chunk.js",
     "static/js/2.ba1eafc2.chunk.js.map": "/fashion/static/js/2.ba1eafc2.chunk.js.map",
     "index.html": "/fashion/index.html",
-    "precache-manifest.6482f940c15b5fcba1640a5f4ffcf923.js": "/fashion/precache-manifest.6482f940c15b5fcba1640a5f4ffcf923.js",
+    "precache-manifest.8166a1087dfb189489c8c42acc4278d7.js": "/fashion/precache-manifest.8166a1087dfb189489c8c42acc4278d7.js",
     "service-worker.js": "/fashion/service-worker.js",
-    "static/css/main.8fa35a3f.chunk.css.map": "/fashion/static/css/main.8fa35a3f.chunk.css.map",
+    "static/css/main.e76f420a.chunk.css.map": "/fashion/static/css/main.e76f420a.chunk.css.map",
     "static/media/brand.PNG": "/fashion/static/media/brand.9e9e2ee8.PNG",
     "static/media/prinmia2.jpeg": "/fashion/static/media/prinmia2.3ff5b4fd.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.97901acc.js",
     "static/js/2.ba1eafc2.chunk.js",
-    "static/css/main.8fa35a3f.chunk.css",
+    "static/css/main.e76f420a.chunk.css",
     "static/js/main.12680ffd.chunk.js"
   ]
 }
