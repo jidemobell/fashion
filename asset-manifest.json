@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c14b5ce.chunk.css",
+    "main.js": "/static/js/main.fc50ab75.chunk.js",
+    "main.js.map": "/static/js/main.fc50ab75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd96db3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd96db3e.js.map",
+    "static/js/2.ba1eafc2.chunk.js": "/static/js/2.ba1eafc2.chunk.js",
+    "static/js/2.ba1eafc2.chunk.js.map": "/static/js/2.ba1eafc2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c316a373845e883b1e44327348415870.js": "/precache-manifest.c316a373845e883b1e44327348415870.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2c14b5ce.chunk.css.map": "/static/css/main.2c14b5ce.chunk.css.map",
+    "static/media/brand.PNG": "/static/media/brand.9e9e2ee8.PNG",
+    "static/media/prinmia2.jpeg": "/static/media/prinmia2.3ff5b4fd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd96db3e.js",
+    "static/js/2.ba1eafc2.chunk.js",
+    "static/css/main.2c14b5ce.chunk.css",
+    "static/js/main.fc50ab75.chunk.js"
+  ]
+}
