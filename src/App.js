@@ -12,6 +12,7 @@ function App() {
         <header className="flex-row header">
           <img src={brand} alt="signature" className="brand" />
           <img src={signature} alt="signature" className="signature" />
+					<div></div>
         </header>
         <div className="flex-col-centered body">
           <p id="first" className="josefina">
