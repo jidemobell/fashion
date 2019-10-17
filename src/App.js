@@ -1,8 +1,10 @@
 import React from "react";
 import prinmia from "./image/prinmia2.jpeg";
 import signature from "./image/signature.png";
+import facebook from "./image/icons/facebook.svg";
+import instagram from "./image/icons/instagram.svg";
 import brand from "./image/brand.PNG";
-import './responsive.css'
+import "./responsive.css";
 import "./App.css";
 
 function App() {
@@ -11,8 +13,17 @@ function App() {
       <section className="content">
         <header className="flex-row header">
           <img src={brand} alt="signature" className="brand" />
-          <img src={signature} alt="signature" className="signature" />
-					<div></div>
+          <div className="flex-row-centered">
+            <div className="flex-row">
+              <a href='https://facebook.com/mercyadamsclothings' target='_blank' rel="noopener noreferrer">
+                <img src={facebook} alt="signature" className="social-media" />
+              </a>
+              <a href='https://intagram.com/mercyadams_in_seams' target='_blank' rel="noopener noreferrer">
+                <img src={instagram} alt="signature" className="social-media" />
+              </a>
+            </div>
+            <img src={signature} alt="signature" className="signature" />
+          </div>
         </header>
         <div className="flex-col-centered body">
           <p id="first" className="josefina">
